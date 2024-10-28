@@ -1,0 +1,32 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_Cercal_2024101565 (6)\Ricardo_Lopes_Cercal_2024101565\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
